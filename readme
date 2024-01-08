@@ -1,0 +1,22 @@
+To run:
+
+cd [PATH TO]/[THIS]
+module add qt
+qmake
+make
+./sc18mi_cw3
+
+Controls
+R - Reset
+1 - Task 1
+2 - Task 2
+3 - Task 3
+3 - Task 4
+
+Sliders:
+<min-(default)-max>
+Rest Density: <200-(300)-400>
+Gas: <500-(1000)-1500>
+Viscosity: <100-(400)-700>
+Mass: <1-(2.5)-5>
+H: <15-(20)-30>
