@@ -22,4 +22,4 @@ Mass: <1-(2.5)-5>
 H: <15-(20)-30>
 
 ## Description
-This GitHub repository serves as my university coursework project on 2D fluid simulation. The project focuses on the implementation of a 2D fluid simulation using physics-based forces applied to particles, simulating the behavior of water. The entire codebase has been independently developed, encompassing various algorithms and techniques for an accurate representation of fluid dynamics.
+This GitHub repository serves as my university coursework project on 2D fluid simulation. The project focuses on the implementation of a 2D fluid simulation using physics-based forces applied to particles, simulating the behavior of water.
